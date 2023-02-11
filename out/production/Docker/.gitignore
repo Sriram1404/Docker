@@ -1,1 +1,4 @@
 .idea
+out/production/Docker/.idea
+out/production/Docker/Dockerfile
+out/production/Docker/README.md
